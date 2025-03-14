@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.1.0">
   <diagram name="Страница — 1" id="h39BrPKxuDMGDi6YM3mU">
-    <mxGraphModel>
+    <mxGraphModel dx="2199" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cseGOAcBCH44NVd2no2V-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cseGOAcBCH44NVd2no2V-1" target="cseGOAcBCH44NVd2no2V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cseGOAcBCH44NVd2no2V-1" target="cseGOAcBCH44NVd2no2V-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cseGOAcBCH44NVd2no2V-1" target="cseGOAcBCH44NVd2no2V-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-1" value="В 862 годы славянские племена призывают варягов, чтобы те княжили. На зов откликнулись 3 брата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="160" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cseGOAcBCH44NVd2no2V-3" target="cseGOAcBCH44NVd2no2V-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-3" value="Рюрик&lt;div&gt;Новгородский престол&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-4" value="Синеус" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-5" value="Трувор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cseGOAcBCH44NVd2no2V-9" target="cseGOAcBCH44NVd2no2V-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-9" value="Рюрик занял новгородский престол и отправил своих дружинников на юг (на Константинополь).&lt;div&gt;По пути они захватили Киев и установили полный контроль над торговым путём &quot;из варяг в греки&quot; и отказались платить дань Казанскому Каганату. Так возникла два главных центра Древней Руси - Новгород на севере и Киев на юге.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="240" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-11" value="Олег, родить Рюрика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cseGOAcBCH44NVd2no2V-13" target="cseGOAcBCH44NVd2no2V-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cseGOAcBCH44NVd2no2V-13" value="Спустя несколько лет после смерти Рюрика отправился походом на юг, захватил Киев и сделал его своей столицей. С объединением Киева и Новгорода возникло Древнерусское государство.&lt;div&gt;Его прозвали Вещим - якобы из-за его способности предвидеть будущее.&lt;/div&gt;&lt;div&gt;Также Олег осуществил два похода на Византию - в 907 году и в 911 году.&lt;/div&gt;&lt;div&gt;Именно в первом походе Олег одержал блистательную победу и прибил свой щит на врата Константинополя и заключил с Византией выгодный договор&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="420" width="310" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
