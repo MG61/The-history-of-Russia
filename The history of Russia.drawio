@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Страница — 1" id="h39BrPKxuDMGDi6YM3mU">
-    <mxGraphModel dx="3674" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3541" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
         <mxCell id="YMBJueyCIs7XUrnGjvb5-10" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;В 1054&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-radius: 4px; padding: 0px 2px; font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;font&gt;Всеволод&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&amp;nbsp;получил в держание Переяславскую, Ростовскую, Велоозерскую земли и Верхнее Поволжье. В 1060-е он с переменным успехом воевал с торками и половцами и кн. Всеславом Полоцким. В 1073 вместе с братом Святославом изгнал из Киева Изяслава Ярославича и получил во владение Черниговскую землю.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-480" y="1440" width="340" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YMBJueyCIs7XUrnGjvb5-12" target="GBiiz-BHvn4FkFpRgnzP-1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YMBJueyCIs7XUrnGjvb5-12" target="GBiiz-BHvn4FkFpRgnzP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YMBJueyCIs7XUrnGjvb5-12" value="Владимир Всеволодович&lt;div&gt;(Мономах)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -206,43 +206,43 @@
         <mxCell id="YMBJueyCIs7XUrnGjvb5-17" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Владимир Мономах был главным противником мирного договора с половцами, выступая за полный разгром и изгнание кочевников подальше от русских рубежей. Десять лет, с&amp;nbsp;1103 по&amp;nbsp;1113&amp;nbsp;год, объединенное русское войско во главе с&amp;nbsp;Мономахом совершило несколько успешных походов против половцев. А в&amp;nbsp;1113&amp;nbsp;году, после смерти Святополка, в&amp;nbsp;Киеве вспыхнуло народное восстание, и бояре призвали на княжение Владимира Мономаха – сторонника мира на русской земле и непримиримого борца со степной угрозой.&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Правил Мономах недолго, всего 12&amp;nbsp;лет, но эти годы считаются последним периодом усиления Киевской Руси перед монголо-татарским нашествием.&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Именно при Владимире Мономахе монах Киево-Печерского монастыря Нестор составил летописный свод, известный нам как «Повесть временных лет».&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="1540" width="420" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-1" target="GBiiz-BHvn4FkFpRgnzP-4">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-1" target="GBiiz-BHvn4FkFpRgnzP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-1" target="GBiiz-BHvn4FkFpRgnzP-3">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-1" target="GBiiz-BHvn4FkFpRgnzP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-1" value="Юрий, сын Владимира (Долгорукий)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-1" value="Юрий, сын Владимира (Долгорукий)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="60" y="1950" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-3" value="Андрей, сын Юрия&lt;div&gt;(Боголюбский)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-3" value="Андрей, сын Юрия&lt;div&gt;(Боголюбский)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-40" y="2110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-4" value="Михаил, сын Юрия" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-4" value="Михаил, сын Юрия" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="2110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-14">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-16">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-15">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-17">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-5" target="GBiiz-BHvn4FkFpRgnzP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-5" value="Всеволод, сын Юрия&lt;div&gt;(Большое гнездо)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-5" value="Всеволод, сын Юрия&lt;div&gt;(Большое гнездо)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="2110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-9" target="GBiiz-BHvn4FkFpRgnzP-10">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-9" target="GBiiz-BHvn4FkFpRgnzP-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;После смерти Владимира Мономаха княжеством правил его сын Юрий Долгорукий (его называют основателем Москвы). От&amp;nbsp;Юрия власть перешла к его сыну Андрею Боголюбскому, который перенес столицу из&amp;nbsp;Суздаля во&amp;nbsp;Владимир, а от&amp;nbsp;него – к&amp;nbsp;Всеволоду Большое Гнездо, при котором княжество достигло наивысшего расцвета.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;После смерти Владимира Мономаха княжеством правил его сын Юрий Долгорукий (его называют основателем Москвы). От&amp;nbsp;Юрия власть перешла к его сыну Андрею Боголюбскому, который перенес столицу из&amp;nbsp;Суздаля во&amp;nbsp;Владимир, а от&amp;nbsp;него – к&amp;nbsp;Всеволоду Большое Гнездо, при котором княжество достигло наивысшего расцвета.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-580" y="2055" width="420" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GBiiz-BHvn4FkFpRgnzP-5">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="GBiiz-BHvn4FkFpRgnzP-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="2040" as="sourcePoint" />
             <mxPoint x="440" y="2100" as="targetPoint" />
@@ -252,50 +252,92 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-14" value="Святослав, сын Всеволода" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-14" value="Святослав, сын Всеволода" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="2320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-15" value="Юрий 2,&lt;div&gt;&amp;nbsp;сын Всеволода&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-15" value="Юрий 2,&lt;div&gt;&amp;nbsp;сын Всеволода&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="2320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-26">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-27">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-25">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-24">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-32">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GBiiz-BHvn4FkFpRgnzP-16" target="GBiiz-BHvn4FkFpRgnzP-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-16" value="Ярослав 2, сын Всеволода" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-16" value="Ярослав 2, сын Всеволода" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="2320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-17" value="Константин, сын Всеволода" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-17" value="Константин, сын Всеволода" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="2320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="-105" y="2050" width="690" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-24" value="Ярослав 3, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-24" value="Ярослав 3, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="2490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-25" value="Александр Невский, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GBiiz-BHvn4FkFpRgnzP-25" target="i1k3ho_RsCpCD2jXuVDi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-25" value="Александр Невский, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="2490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-26" value="Михаил, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="2490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-26" value="Михаил, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="2490" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-27" value="Андрей, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-27" value="Андрей, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="2490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBiiz-BHvn4FkFpRgnzP-32" value="Василий Костромской, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GBiiz-BHvn4FkFpRgnzP-32" value="Василий Костромской, сын Ярослава" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="2490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1k3ho_RsCpCD2jXuVDi-1" target="GBiiz-BHvn4FkFpRgnzP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-1" value="&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;1242&amp;nbsp;году Александр Невский отбил у ливонцев захваченный ими Псков, а&amp;nbsp;5&amp;nbsp;апреля 1242&amp;nbsp;года схватился с крестоносцами в масштабном сражении на льду Чудского озера. Считается, что с обеих сторон в&amp;nbsp;Ледовом побоище участвовало примерно 25–30 тысяч человек.&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Разобравшись с ливонцами, князь Александр начал налаживать отношения с&amp;nbsp;Ордой. В&amp;nbsp;1247&amp;nbsp;году он уехал сначала в ставку Батыя, а потом в&amp;nbsp;Каракорум, где получил ярлык на великое княжение на всех русских землях и побратался с сыном Батыя Сартаком.&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="2320" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1k3ho_RsCpCD2jXuVDi-3" target="i1k3ho_RsCpCD2jXuVDi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-3" value="Иван Калита,&lt;div&gt;&amp;nbsp;внук Невского&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="2630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1k3ho_RsCpCD2jXuVDi-5" target="i1k3ho_RsCpCD2jXuVDi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-5" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Его прозвали Калитой («большой кошель») за привычку щедро подавать нищим. Калита получил от&amp;nbsp;Орды право собирать дань на всех русских землях.&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;При Иване Калите, в&amp;nbsp;1326&amp;nbsp;году, был заложен Успенский собор. Переселенцам в&amp;nbsp;Московские земли из других княжеств полагались налоговые льготы. Это обеспечило приток населения и подъем экономики.&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Сорок лет правления Ивана Калиты принесли стране долгожданную передышку от ханских набегов и постоянных междоусобиц. Ордынцы титуловали Ивана великим князем всея Руси.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="2520" width="420" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1k3ho_RsCpCD2jXuVDi-7" target="i1k3ho_RsCpCD2jXuVDi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-7" value="Дмитрий Донской,&lt;div&gt;&amp;nbsp;сын Ивана&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="2830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1k3ho_RsCpCD2jXuVDi-9" target="i1k3ho_RsCpCD2jXuVDi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;К 1370 году западные улусы попали под власть Мамая. Он заключил союз с литовским князем Ольгердом. В тоже время князь Дмитрий Иванович отказался выплачивать дань ордынцам. В 1378 году ордынцы двинулись в карательный поход на Москву, но Дмитрий собрал войско и разгромил врага на реке Воже.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-935" y="2770" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1k3ho_RsCpCD2jXuVDi-11" target="i1k3ho_RsCpCD2jXuVDi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-11" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Куликовская битва&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Два года спустя состоялась битва на Куликовском поле, в месте впадения в Дон реки Непрявды. На стороне Мамая выступили литовский князь Ягайло и рязанский князь Олег, Дмитрий же объединил под своим началом армии московских, серпуховских, белозерских, ярославских и ростовских князей.&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Накануне битвы Дмитрий приказал поставить в дубраву засадный полк, который в итоге и решил исход боя. Ордынцам удалось прорвать левый фланг русского войска и прижать противника к реке Непрядве. Глава засадного полка воевода Боброк проявил незаурядное терпение и отдал приказ атаковать лишь тогда, когда монголо-татары обнажили свои тылы. Стремительным контрударом ему удалось загнать врагов в реку и уничтожить.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-935" y="2890" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="i1k3ho_RsCpCD2jXuVDi-13" value="Иван 3,&lt;div&gt;праправнук Ивана Калиты&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="2830" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
