@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Страница — 1" id="h39BrPKxuDMGDi6YM3mU">
-    <mxGraphModel dx="4898" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5216" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="-1292.5" y="6540" width="2645" height="4650" as="geometry" />
+        </mxCell>
         <mxCell id="bM0SWUyuu98TEa4M2Je2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-19" target="bM0SWUyuu98TEa4M2Je2-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -566,14 +569,53 @@
         <mxCell id="bM0SWUyuu98TEa4M2Je2-21" value="В Нижнем Новгороде не пострадавшем от нашествия, староста Козьма Минии обратился с призывом спасти родину от гибели и разорения.&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Призыв поддержали, но для спасения требовались деньги. Минин обладал решительным характером и немалыми организаторскими способностями. Люди не просто слушали его речи: они наделили его властью собирать средства для ополчения. У тех, кто отказывался отдавать треть имущества, реквизировали все. Минин привлек в армию профессиональных солдат и офицеров, положив им хорошее жалование. Ополчение возглавил князь Дмитрий Пожарский, не запятнавший себя сотрудничеством ни с&amp;nbsp;поляками, ни с&amp;nbsp;Лжедмитрием. В&amp;nbsp;1612&amp;nbsp;году в&amp;nbsp;Ярославле был создан «Совет всей земли», ставший главным органом государственной власти в стране.&lt;/span&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;В августе 1612&amp;nbsp;года ополчение одержало убедительную победу над поляками во главе с гетманом Ходкевичем, но полная «зачистка» столицы заняла еще два месяца.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="110" y="6230" width="440" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-24" target="bM0SWUyuu98TEa4M2Je2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bM0SWUyuu98TEa4M2Je2-24" value="Михаил Романов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="6640" width="140" height="60" as="geometry" />
+          <mxGeometry x="-225" y="6690" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bM0SWUyuu98TEa4M2Je2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-26" target="bM0SWUyuu98TEa4M2Je2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bM0SWUyuu98TEa4M2Je2-26" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;В январе в&amp;nbsp;Москву съехались выборные представители от всех сословий для избрания царя. Из нескольких претендентов, родовитых русских бояр, был избран 16-летний Михаил Романов, сын патриарха Филарета. Михаил устроил всех – он был в родстве с прежней династией, молод и готов управлять страной на тех условиях, которые ему поставили: принимать все серьезные решения только совместно с&amp;nbsp;Земским собором, вершить правосудие по старым законам, не вводить новых налогов.&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;В 1617&amp;nbsp;году был заключен мир со&amp;nbsp;Швецией: Россия вновь теряла выход к&amp;nbsp;Балтике, но вернула новгородские земли. В&amp;nbsp;1618&amp;nbsp;году по итогам Деулинского перемирия за поляками остался Смоленск, но&amp;nbsp;Владислав отказался от претензий на русский престол. Экономические последствия Смуты ощущались до&amp;nbsp;1640-х годов.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-853" y="6550" width="440" height="240" as="geometry" />
+          <mxGeometry x="-785" y="6600" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-29" value="Романовы" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;" vertex="1" parent="1">
+          <mxGeometry x="820" y="6610" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-30" target="bM0SWUyuu98TEa4M2Je2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-30" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Первый царь из династии Романовых, возведенный на престол по воле народа, правил 16&amp;nbsp;лет, во всем советуясь с&amp;nbsp;Земским собором. Все годы его правления Россия восстанавливалась от последствий хозяйственного упадка и разорения земель. Своему сыну Алексею он оставил непрочный мир на западных границах, неразрешенные территориальные вопросы с поляками, частично освоенную Сибирь, постоянные казацкие и крестьянские волнения внутри страны и множество нерешенных вопросов государственного управления.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="6625" width="440" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-32" target="bM0SWUyuu98TEa4M2Je2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-32" target="bM0SWUyuu98TEa4M2Je2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-32" target="bM0SWUyuu98TEa4M2Je2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-32" value="Алексей,&amp;nbsp;&lt;div&gt;сын Михаила&lt;/div&gt;&lt;div&gt;(Тишайший)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="7020" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bM0SWUyuu98TEa4M2Je2-34" target="bM0SWUyuu98TEa4M2Je2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-34" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Он стал русским царем в&amp;nbsp;16&amp;nbsp;лет, после скоропостижной смерти отца в&amp;nbsp;1645&amp;nbsp;году. Все источники в один голос утверждают, что характер у нового государя был на редкость спокойный. В отличие от&amp;nbsp;Грозного и&amp;nbsp;Годунова, он не страдал приступами кровожадности, решения, как и отец, принимал в согласии с&amp;nbsp;Земским собором и вел при дворе праведную жизнь православного монарха. На время его правления, однако, пришлись два крупных народных бунта, Соляной и&amp;nbsp;Медный, одно полномасштабное казацкое восстание, одна затяжная война на два фронта и церковный раскол.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="6900" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-37" value="Фёдор ,&amp;nbsp;&lt;div&gt;сын Алексея&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="7410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-38" value="Иван 5,&amp;nbsp;&lt;div&gt;сын Алексея&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="7410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bM0SWUyuu98TEa4M2Je2-39" value="Пётр I,&lt;br&gt;&lt;div&gt;сын Алексея&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="45" y="7410" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
